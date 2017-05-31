@@ -110,13 +110,10 @@ footer{
 /*****************EVALUADO***********/
 /*SECTION WORK*/
 #work{
-  background-color: whitesmoke;
+  background-color: white;
   text-align: center;
   color:black;
-  padding: 70px 7px;
+  padding: 70px 80px;
 
 }
 
-.col-12{
-  width: 100%
-}
