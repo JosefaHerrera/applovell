@@ -107,3 +107,16 @@ footer{
   color:white;
   padding-top: 7px;
 }
+/*****************EVALUADO***********/
+/*SECTION WORK*/
+#work{
+  background-color: whitesmoke;
+  text-align: center;
+  color:black;
+  padding: 70px 7px;
+  overflow: auto;
+}
+
+.col-12{
+  width: 100%
+}
